@@ -1,0 +1,4 @@
+name: FallGuysMrk2
+version: 1.0-SNAPSHOT
+main: com.github.chaosindustory.fallguysmrk2.FallGuysMrk2
+api-version: 1.15
